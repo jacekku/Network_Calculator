@@ -198,7 +198,7 @@ def last_host_address(broadcast_address):
     broadcast=broadcast[0]+'.'+broadcast[1]+'.'+broadcast[2]+'.'+broadcast[3]
     return broadcast
 
-#MAX ILOSC HOSTOW
+#MAKSYMALNA ILOSC HOSTOW
 def max_host_number(mask):
     counter = 0
     for i in range(0, len(mask), 1):
