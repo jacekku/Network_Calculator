@@ -1,0 +1,15 @@
+CORRECT IP ADDRESS!
+Your Computer IP Adress  is: 192.168.0.104
+Your Computer IP Adress in binary is: 11000000.10101000.00000000.01101000
+Your Computer IP Mask in binary is: 11111111.11111111.11111111.00000000
+Your Computer IP Mask is: 255.255.255.0
+Your Network Adress is: 192.168.0.0
+Your Network Class is: C
+Your IP Address is: private 
+Your Broadcast Address is: 192.168.0.255
+Your Broadcast Address in binary is: 11000000.10101000.00000000.11111111
+First host Address is: 192.168.0.1
+Last host Address is: 192.168.0.254
+First host Address in binary is: 11000000.10101000.00000000.00000001
+Last host Address in binary is: 11000000.10101000.00000000.11111110
+Number of host is: 254
